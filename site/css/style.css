@@ -1,0 +1,35 @@
+
+body {background: black;}
+
+h1, h3 {color: white; font-family: 'Shadows Into Light', cursive;}
+a, ol {color: gray; font-family: 'Architects Daughter', cursive;}
+
+h1 {font-size: 32px} 
+
+a, a:link { color: blue; }
+	a:visited { color: pink; }
+	a:hover { color: orange; }
+	a:focus {background-color: blue; }
+	a:active { color: beige; }
+
+a  {font-size: 22px;}
+
+ul li{
+  display: inline;
+}
+
+.numbers {
+	border-top-width: 10px;
+	text-align: center;
+	letter-spacing: 40px;	 
+}      
+
+h3	{font-size: 22px;}
+
+li, p {font-size: 18px;}
+
+
+
+ 
+
+
